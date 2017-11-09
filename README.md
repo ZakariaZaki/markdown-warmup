@@ -19,7 +19,7 @@ Zaki knew about a site of an ex-collegue, so he [searched](https://www.google.co
 
 1. It is not user friendly
 1. Basic tools are used
-   - HTML 3.2
+   - ```HTML 3.2```
 1. Not visually appealing
    - No margins
    - Image not centered
