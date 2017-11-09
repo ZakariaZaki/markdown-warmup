@@ -22,7 +22,8 @@ Zaki knew about a site of an ex-collegue, so he [searched](https://www.google.co
    - Homepage is very bland
    - No transparancy in image
 1. Basic tools are used
-   - HTML 3.2
+   - HTML 3.2
+   - No CSS
 1. Not visually appealing
    - No margins
    - Image not centered
