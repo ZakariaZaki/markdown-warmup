@@ -17,16 +17,26 @@ Zaki knew about a site of an ex-collegue, so he [searched](https://www.google.co
 
 ## Why does this website needs updates or a remake ?
 
+1. No structure
 1. It is not user friendly
+   - Homepage is very bland
+   - No transparancy in image
 1. Basic tools are used
-   - ```HTML 3.2```
+   - HTML 3.2
 1. Not visually appealing
    - No margins
    - Image not centered
 1. Not responsive
 1. No content first
-1. 
+1. No metadata
 
 ## Is this website present on social networks ?
 
+No, it is an online CV
+
 ## Make a list of recomandation of the futur changes ?
+
++ Use recent tools
++
++
++
