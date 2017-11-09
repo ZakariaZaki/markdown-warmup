@@ -13,7 +13,7 @@ No
 
 ## How did you find it ?
 
-Zaki knew about a site of an ex-collegue, so he [searched](https://www.google.com/search?q=charlene+van+Loock&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi59MeBh7HXAhVYzmMKHQRvDesQ_AUICigB&biw=1536&bih=734#imgrc=GNT03_xTd4tm0M "Google Search") for it and that's how we found it. <!-- We searched it on Google -->
+Zaki knew about a site from an ex-collegue, so he [searched](https://www.google.com/search?q=charlene+van+Loock&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi59MeBh7HXAhVYzmMKHQRvDesQ_AUICigB&biw=1536&bih=734#imgrc=GNT03_xTd4tm0M "Google Search") for it and that's how we found it. <!-- We searched it on Google -->
 
 ![Charlene Van Loock](http://users.telenet.be/patrickvanloock/stamboom/parenteel_vanloock/charlene_van_loock_2.jpg)
 
