@@ -13,4 +13,4 @@ No
 
 ## How did you find it ?
 
-An ex-collegue of Zaki was mentioned on the site, so that's how we found it. 
+Zaki knew about a site of an ex-collegue, so he searched for it and that's how we found it. <!-- We searched it on Google -->
