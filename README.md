@@ -15,7 +15,6 @@ No
 
 Zaki knew about a site of an ex-collegue, so he [searched] for it and that's how we found it. <!-- We searched it on Google -->
 
-![Charlene Van Loock](http://users.telenet.be/patrickvanloock/stamboom/parenteel_vanloock/charlene_van_loock_2.jpg)
 1. It is not user friendly
    - Homepage is very bland
    - No transparancy in image
