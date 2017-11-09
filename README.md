@@ -20,6 +20,6 @@ Zaki knew about a site of an ex-collegue, so he [searched](https://www.google.co
 1. It is not user friendly
 1. Basic tools are used
 1. Not visually appealing
-    -
+  -
 1. Not responsive
 1. 
