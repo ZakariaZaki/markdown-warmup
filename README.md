@@ -24,7 +24,7 @@ Zaki knew about a site of an ex-collegue, so he [searched](https://www.google.co
    - HTML 3.2
    - No CSS
 1. Not visually appealing
-   - No margins
+ - No margins
    - Image not centered
 1. Not responsive
 1. No content first
